@@ -3,3 +3,4 @@ chicken
 pata
 kheer
 roti
+mutton fry
