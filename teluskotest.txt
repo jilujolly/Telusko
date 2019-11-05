@@ -5,6 +5,8 @@ kheer
 roti
 mutton fry
 
+beans 
+pizza
 
 
 
